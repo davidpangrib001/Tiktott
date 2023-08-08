@@ -1,0 +1,18 @@
+『 TIKTOK TOOLS 』
+
+Hello, Welcome To Docs Of This API. This Tools Is Free For Use ~
+
+ENDPOINT'S LIST:
+
+CLASSIC DOWNLOADER
+https://tt.onxs.eu.org/api/tiktok
+Require: url=(link), apikey=Admin (Just wear it)
+
+(Can Download Tiktok Photo Slideshow)
+
+=================
+
+If Something Confuses, Chat My WhatsApp Below:
+wa.me/6283171710709
+
+Modules By Tiklydown (Caliph)
